@@ -82,7 +82,7 @@
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "^19.0.10",
     "husky": "^4.2.5",
-    "lint-staged": "^15.5.0",
+    "lint-staged": "^15.5.1",
     "prettier": "3.5.0",
     "prettier-config-standard": "^7.0.0",
     "typescript": "5.7.3"
