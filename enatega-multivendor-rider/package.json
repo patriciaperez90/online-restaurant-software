@@ -50,7 +50,7 @@
     "expo-av": "~14.0.6",
     "expo-camera": "~16.0.16",
     "expo-constants": "~16.0.2",
-    "expo-dev-client": "~4.0.20",
+    "expo-dev-client": "~5.2.4",
     "expo-device": "~6.0.2",
     "expo-font": "~13.0.3",
     "expo-image-picker": "~16.0.6",
